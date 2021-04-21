@@ -4,5 +4,5 @@
 ![](https://img.shields.io/badge/NAIT-DMIT%20--SysAdmin-informational)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nickmamchur&theme=<THEME_NAME>" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top_langs/?username=nickmamchur&theme=<THEME_NAME>" />
 
